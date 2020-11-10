@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/add-3crv/static/css/main.412559b2.chunk.css",
+    "main.js": "/add-3crv/static/js/main.c7dcefc2.chunk.js",
+    "main.js.map": "/add-3crv/static/js/main.c7dcefc2.chunk.js.map",
+    "runtime-main.js": "/add-3crv/static/js/runtime-main.f0e4cccb.js",
+    "runtime-main.js.map": "/add-3crv/static/js/runtime-main.f0e4cccb.js.map",
+    "static/js/2.034d21f0.chunk.js": "/add-3crv/static/js/2.034d21f0.chunk.js",
+    "static/js/2.034d21f0.chunk.js.map": "/add-3crv/static/js/2.034d21f0.chunk.js.map",
+    "static/js/3.377f620e.chunk.js": "/add-3crv/static/js/3.377f620e.chunk.js",
+    "static/js/3.377f620e.chunk.js.map": "/add-3crv/static/js/3.377f620e.chunk.js.map",
+    "index.html": "/add-3crv/index.html",
+    "static/css/main.412559b2.chunk.css.map": "/add-3crv/static/css/main.412559b2.chunk.css.map",
+    "static/js/2.034d21f0.chunk.js.LICENSE.txt": "/add-3crv/static/js/2.034d21f0.chunk.js.LICENSE.txt",
+    "static/media/coin.3036f619.jpg": "/add-3crv/static/media/coin.3036f619.jpg",
+    "static/media/download-metamask.d5ed3214.png": "/add-3crv/static/media/download-metamask.d5ed3214.png",
+    "static/media/switch-network.7edd19b2.jpg": "/add-3crv/static/media/switch-network.7edd19b2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0e4cccb.js",
+    "static/js/2.034d21f0.chunk.js",
+    "static/css/main.412559b2.chunk.css",
+    "static/js/main.c7dcefc2.chunk.js"
+  ]
+}
